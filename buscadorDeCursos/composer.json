@@ -1,0 +1,13 @@
+{
+    "name": "wernerluiz92/buscador-cursos",
+    "description": "Projeto que busca uma lista de cursos do site da Alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Werner Luiz Gottschalt",
+            "email": "werner@lumiun.com"
+        }
+    ],
+    "require": {}
+}
