@@ -1,4 +1,8 @@
 Nesta aula, aprendemos: 
 
 
--> 
+-> scripts são definidos dentro do composer.json;
+-> scripts podem definir comandos que chamam ferramentas instaladas pelo Composer;
+-> scripts podem chamar comandos do sistema operacional;
+-> scripts podem chamar códigos PHP;
+-> scripts podem ser associados ao evento.
