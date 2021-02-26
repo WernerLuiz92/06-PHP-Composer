@@ -15,5 +15,5 @@ $buscador = new Buscador($client, $crawler);
 $cursos = $buscador->buscar($url);
 
 foreach ($cursos as $curso) {
-  echo $curso . '<br>';
+    echo $curso . '<br>';
 }
