@@ -42,4 +42,9 @@ class Buscador
 
         return $cursos;
     }
+
+    public static function teste(): void
+    {
+        echo "Eu rodei de um script criado no composer.json";
+    }
 }
